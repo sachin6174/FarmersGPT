@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">Farmers GPT</string>
+    <string name="app_name">Project Kisan</string>
+    
+    <!-- Navigation -->
+    <string name="home">Home</string>
+    <string name="diagnosis">Diagnosis</string>
+    <string name="ai_assistant">AI Assistant</string>
+    <string name="profile">Profile</string>
 </resources>
